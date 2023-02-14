@@ -1,0 +1,40 @@
+
+.student-div{
+    width:100%;
+    height: 10%;
+    margin:auto;
+    background-color: rgb(20, 19, 19);
+}
+.student-div .img_div{
+    width:40%;
+    display: flex;
+    justify-content: center;
+    margin:auto;
+    /* background-color: red;   */
+    
+    /* position: relative; */
+
+}
+.student-div .img_div img
+{
+    /* position: absolute; */
+    /* background-color:blue; */
+    /* margin:auto; */
+    margin-top: 20px;
+    width:inherit;
+    height:inherit;
+
+}
+h3{
+    color: rgb(201, 193, 183);
+}
+ p{
+    color: rgb(209, 223, 223);
+}
+.links_btn{
+    list-style: none;
+    display: flex;
+    margin:auto;
+    align-content:center;
+    max-width: fit-content;
+}
